@@ -59,7 +59,7 @@ export class PhotoService {
     }
 
     // Write the file to the data directory
-    const fileName = 'Altamirano'+ '.jpeg';
+    const fileName = 'Altamirano+' + new Date().getTime() + '.jpeg';
     const savedFile = await Filesystem.writeFile({
       path: fileName,
       data: base64Data,
