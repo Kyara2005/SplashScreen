@@ -68,7 +68,7 @@ Crear una carpeta `assets/` con:
 * splash.png
 * splash-dark.png
 
-📌 Nota: Puedes usar herramientas como **Ape Tools** para ajustar tamaños.
+📌 Nota: Puede usar herramientas como **Ape Tools** para ajustar tamaños.
 
 ---
 
